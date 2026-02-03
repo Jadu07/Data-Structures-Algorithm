@@ -10,6 +10,6 @@ class Solution:
                 low=mid+1
             else:
                 high=mid-1
-        return low
+        return low 
 
         
